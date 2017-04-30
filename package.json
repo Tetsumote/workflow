@@ -1,0 +1,7 @@
+{
+    "name"          :"workflows",
+    "version"       : "0.0.1",
+    "description"   : "A project to showcase workflows",
+    "author"        : "Paul Grajewski <grajewski@pawelgrajewski.com.pl>",
+    "license"       : "MIT"
+}
