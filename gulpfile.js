@@ -76,7 +76,7 @@ gulp.task('watch', function() {
   gulp.watch('builds/development/*.html', ['html']);
   gulp.watch('builds/development/js/*.json', ['json']);
 });
-
+  
 gulp.task('connect', function() {
   connect.server({
     root: outputDir,
